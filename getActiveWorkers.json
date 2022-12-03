@@ -6,8 +6,8 @@
         "type": "bar-stacked",
         "result": {
             "lines": [
-                ["2019", 16, "Tasa de trabajadores activos"],
-                ["2020", 29, "Tasa de trabajadores activos"],
+		    {"valueX":"2019", "valueY": 16, "label":"Tasa de trabajadores activos"},
+		    {"valueX":"2020", "valueY": 29, "label":"Tasa de trabajadores activos"},
             ],
 			"visibleValues": true
         }
