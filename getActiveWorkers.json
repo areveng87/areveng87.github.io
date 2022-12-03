@@ -9,7 +9,7 @@
                 ["2019", 16, "Tasa de trabajadores activos"],
                 ["2020", 29, "Tasa de trabajadores activos"],
             ],
-			"visibleValues": True
+			"visibleValues": true
         }
     }
 }
