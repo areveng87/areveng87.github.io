@@ -1,0 +1,16 @@
+{
+    "status": "OK",
+    "message": "",
+    "data": {
+        "title": "Margen Sobre Ventas",
+        "type": "fraction",
+        "result": [
+            {
+                "text": "Beneficio neto obtenido en relación con las ventas realizadas por la empresa. Cuánto mayor sea el margen sobre las ventas, mayor es la rentabilizad.",
+                "fraction1": "Beneficio neto x 100\r\n________\r\nVentas",
+                "fraction2": "651.583,17 €\r\n________\r\n29.4538 €",
+                "result": "Resultado: 29,45%",
+            }
+        ]
+    }
+}
