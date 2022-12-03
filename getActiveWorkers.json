@@ -1,0 +1,15 @@
+{
+    "status": "OK",
+    "message": "",
+    "data": {
+        "title": "Trabajadores activos 2020",
+        "type": "bar-stacked",
+        "result": {
+            "lines": [
+                ["2019", 16, "Tasa de trabajadores activos"],
+                ["2020", 29, "Tasa de trabajadores activos"],
+            ],
+			"visibleValues": True
+        }
+    }
+}
