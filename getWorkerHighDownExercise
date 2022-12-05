@@ -6,8 +6,8 @@
         "type": "bar-stacked",
         "result": {
             "lines": [
-		    {"label":"2019","points": [{"x":"Altas", "y": 16},{"x":"Bajas", "y": 18}] },
-		    {"label":"2020","points": [{"x":"Altas", "y": 16},{"x":"Bajas", "y": 12}] },
+		    {"serie":"2019","points": [{"x":"Altas", "y": 16},{"x":"Bajas", "y": 18}] },
+		    {"serie":"2020","points": [{"x":"Altas", "y": 16},{"x":"Bajas", "y": 12}] },
             ],
 	    "visibleValues": true
         }
