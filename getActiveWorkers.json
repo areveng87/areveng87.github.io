@@ -6,10 +6,10 @@
         "type": "bar-stacked",
         "result": {
             "lines": [
-		    {"valueX":"2019", "valueY": 16, "label":"Tasa de trabajadores activos"},
-		    {"valueX":"2020", "valueY": 29, "label":"Tasa de trabajadores activos"},
+		    {"label":"Tasa de trabajadores activos", "points": [{"x":"2019", "y": 16}] },
+		    {"label":"Tasa de trabajadores activos", "points": [{"x":"2020", "y": 29}] },
             ],
-			"visibleValues": true
+	    "visibleValues": true
         }
     }
 }
