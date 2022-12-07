@@ -9,11 +9,11 @@
                 "Capacidad de la empresa para afrontar obligaciones a corto plazo con recursos líquidos",
                 "Disponible\\r\\n--------------------\\r\\nPasivo corriente",
                 "250.864,50 €\\r\\n------------\\r\\n2.447.583,86 €",
-                "Tesorería correcta: 0,1024"
+                "Tesorería correcta: 0.1024"
             ],
             "gauges":{
-	         "value": 23,
-                 "ranges": [0,20,40,100],
+	         "value": 0.1024,
+		 "ranges": [0,0.1,0.2,0.4],
                  "colors":[{value: "#FF0000"},{value: "#00ff00"},{value: "#FFA500"}],
                  "percent": false
 		}
