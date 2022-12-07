@@ -1,0 +1,21 @@
+{
+    "status": "OK",
+    "message": "",
+    "data": {
+        "title": "Margen Sobre Ventas",
+        "type": "fraction",
+        "result": {
+            "lines": [
+                "Capacidad de la empresa para afrontar obligaciones a corto plazo con recursos líquidos",
+                "Disponible\\r\\n--------------------\\r\\nPasivo corriente",
+                "250.864,50 €\\r\\n------------\\r\\n2.447.583,86 €",
+                "Tesorería correcta: 0,1024"
+            ],
+            "gauges":{
+                 "ranges": [0,20,40,100],
+                 "colors":[{value: "#FF0000"},{value: "#00ff00"},{value: "#FFA500"}],
+                 "percent": false
+			      }
+        }
+    }
+}
