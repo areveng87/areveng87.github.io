@@ -3,7 +3,7 @@
     "message": "",
     "data": {
         "title": "Margen Sobre Ventas",
-        "type": "fraction",
+        "type": "gauges",
         "result": {
             "lines": [
                 "Capacidad de la empresa para afrontar obligaciones a corto plazo con recursos líquidos",
